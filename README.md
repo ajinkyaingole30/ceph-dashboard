@@ -301,4 +301,4 @@ Finally we have successfully integrated our Ceph Cluster with Prometheus and Gra
 
 ![alt text](https://raw.githubusercontent.com/ajinkyaingole30/ceph-manual/f02e374ae914ede0f3af381a558fae5900a0072f/Screenshot%20(113).png "Logo Title Text 1")
 
-####Using this you can monitor your ceph cluster!
+#### Using this you can monitor your ceph cluster!
